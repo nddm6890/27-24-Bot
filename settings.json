@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "AFK BOT",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "ayuriii.aternos.me",
