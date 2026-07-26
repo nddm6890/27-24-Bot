@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AFK BOT",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "ayuriii.aternos.me",
+    "port": 27672,
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
